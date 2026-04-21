@@ -80,4 +80,3 @@ const checkWinner = () => {
 
 newBtn.addEventListener("click", resetGame);
 resetBtn.addEventListener("click", resetGame);
-// https://github.com/pratikmaity017-hash/My-Portfolio.git //
