@@ -80,3 +80,4 @@ const checkWinner = () => {
 
 newBtn.addEventListener("click", resetGame);
 resetBtn.addEventListener("click", resetGame);
+//273C-D42D//
